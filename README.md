@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Removes annoying ads and resets AnyDesk ID.</h4>
+<h4 align="center">Removes annoying ads and resets AnyDesk ID. Windows only.</h4>
 
 ###
 
